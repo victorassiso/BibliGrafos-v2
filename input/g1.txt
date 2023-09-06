@@ -1,0 +1,29 @@
+U
+A B
+A D
+A F
+B A
+B C
+C B
+C D
+C E
+C H
+D A
+D C
+D E
+D F
+E C
+E D
+E F
+E G
+E H
+F A
+F D
+F E
+G E
+G I
+H E
+H I
+I G
+I H
+
